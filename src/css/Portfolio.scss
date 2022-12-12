@@ -1,0 +1,9 @@
+.portfolio {
+    display: flex;
+    padding: 5%;
+
+    &__item {
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+    }
+}

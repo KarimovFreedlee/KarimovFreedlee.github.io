@@ -1,0 +1,10 @@
+.imgs {
+    height: 520px;
+    display: flex;
+    width: 290px;
+    overflow: hidden;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

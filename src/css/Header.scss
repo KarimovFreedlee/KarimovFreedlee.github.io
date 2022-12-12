@@ -1,0 +1,16 @@
+.header {    
+    list-style: none;
+    border-bottom: 1px solid #e2e2e2;
+
+    &__list {
+        column-gap: 40px;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.list__element {
+    display: inline;
+    cursor: pointer;
+}
